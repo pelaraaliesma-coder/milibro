@@ -1,0 +1,29 @@
+<rss version="2.0">
+<channel>
+<title>Mi primera página web</title>
+<link>https://pelaraaliesma-coder.github.io/milibro/index.html</link>
+<description> Una simple presentación del contenido que se va a ver en la págia </description>
+<copyright>1º ASIR - LMSGI</copyright>
+<language>es-es</language>
+<webMaster>pelara_aliesma@iesmedinaazahara.es</webMaster>
+<item>
+<title>información personal</title>
+<description>
+Una breve introducción sobre mí
+</description>
+<link>
+https://pelaraaliesma-coder.github.io/milibro/Pages/Info.html</link>
+<author>pelara_aliesma@iesmedinaazahara.es</author>
+<category>presentación</category>
+</item>
+<item>
+<title>Estudios</title>
+<description>
+En este artículo encontrará información sobre mis estudios realizados y en curso.
+</description>
+<link>https://pelaraaliesma-coder.github.io/milibro/Pages/Estudios.html</link>
+<author>pelara_aliesma@iesmedinaazahara.es</author>
+<category>estudios</category>
+</item>
+</channel>
+</rss>
