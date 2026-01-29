@@ -1,0 +1,24 @@
+<feed xml:lang="es" xml:base="https://pelaraaliesma-coder.github.io/milibro/index.html/">
+<id>https://pelaraaliesma-coder.github.io/milibro/index.html</id>
+<title>Mi primera página web</title>
+<link rel="alternate" href="https://pelaraaliesma-coder.github.io/milibro/index.html/atom.xml"/>
+<author>
+<name>Raúl Peña Lara</name>
+<email>pelara_aliesma@iesmedinaazahara.es</email>
+</author>
+<category term="Información personal"/>
+<entry>
+<id>
+https://pelaraaliesma-coder.github.io/milibro/Pages/Info.html
+</id>
+<title>Información sobre mi</title>
+<author>
+<name>Raúl Peña Lara</name>
+<email>pelara_aliesma@iesmedinaazahara.es</email>
+</author>
+<summary>
+En este artículo muestra información sobre mi
+</summary>
+<link rel="alternate" href="https://pelaraaliesma-coder.github.io/milibro/Pages/Info.html"/>
+</entry>
+</feed>
