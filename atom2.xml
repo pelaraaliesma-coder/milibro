@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+<title>Mi primera página web</title>
+
+<id>https://pelaraaliesma-coder.github.io/milibro/</id>
+
+<updated>2026-03-09T12:00:00Z</updated>
+
+<author>
+<name>Raúl Peña Lara</name>
+</author>
+
+<entry>
+
+<title>Información sobre mi</title>
+
+<id>https://pelaraaliesma-coder.github.io/milibro/Pages/Info.html</id>
+
+<updated>2026-03-09T12:00:00Z</updated>
+
+<link href="https://pelaraaliesma-coder.github.io/milibro/Pages/Info.html"/>
+
+<summary>En este artículo muestro información sobre mí</summary>
+
+</entry>
+
+</feed>
